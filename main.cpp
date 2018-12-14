@@ -52,3 +52,7 @@ int main()
 
 
 modify test --105127
+
+void additem(){
+	return;
+}
